@@ -12,12 +12,13 @@
 #### 단어 표준화
 - 영문 단어는 소문자로 변환하여 표준화.
 #### 발화자별 문장 병합
-- 대화 데이터에서 한 화자가 연속적으로 여러 번 말한 경우, 이를 자연스럽게 연결하여 하나의 문장으로 병합.
+- 대화 데이터에서 한 화자가 연속적으로 여러 번 말한 경우, 이를 자연스럽게 연결하여 하나의 문장으로 병합.<br><br>
 원본:
-A: 밥 먹었어?
-B: 배고프겠다
-B: 뭐 먹고 싶어?
+
+![image](https://github.com/user-attachments/assets/ce1e4c8a-bcd5-4be1-b6a7-a297a8fb181a)
+
 병합 후:
-A: 밥 먹었어? 나는 아직이야
-B: 배고프겠다 뭐 먹고 싶어?![Uploading image.png…]()![Image](https://github.com/user-attachments/assets/d354113c-3761-41f9-9ee9-e672b9e2c023)
+
+
+![Image](https://github.com/user-attachments/assets/d354113c-3761-41f9-9ee9-e672b9e2c023)
 

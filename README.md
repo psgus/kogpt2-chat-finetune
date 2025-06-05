@@ -22,3 +22,11 @@
 
 ![Image](https://github.com/user-attachments/assets/d354113c-3761-41f9-9ee9-e672b9e2c023)
 
+#### 입력-출력 데이터 쌍 생성
+- 병합된 대화문을 기반으로, 화자 간 순차 대화 흐름을 따라 문장 페어 생성
+  - A가 먼저 말한 문장을 입력(input), B가 바로 응답한 문장을 출력(output)으로 구성
+  - 이어서 B의 응답을 input, A의 다음 응답을 output으로 한 번 더 구성
+
+  ![image](https://github.com/user-attachments/assets/528293d1-3b09-4e83-9068-119ae9175e9c)
+- 학습용(Train) 데이터의 경우 원본 텍스트 파일 87,690개에서 1,125,719개의 대화쌍을 생성.
+- 검증용(Validation) 데이터는 원본 텍스트 파일 10,761개에서 162,262개의 대화쌍을 생성.

@@ -19,5 +19,5 @@ B: 배고프겠다
 B: 뭐 먹고 싶어?
 병합 후:
 A: 밥 먹었어? 나는 아직이야
-B: 배고프겠다 뭐 먹고 싶어?![Uploading image.png…]()
+B: 배고프겠다 뭐 먹고 싶어?![Uploading image.png…]()![Image](https://github.com/user-attachments/assets/d354113c-3761-41f9-9ee9-e672b9e2c023)
 

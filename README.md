@@ -3,4 +3,4 @@
 - 데이터 출처 : https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=543
 - 데이터 구성: 카카오톡, 페이스북, 인스타그램, 네이트온 다양한 SNS 플랫폼에서 수집된 원천 텍스트 데이터.
 ## Preprocessing
-###불필요한 표현 정제
+#### 불필요한 표현 정제
